@@ -1,0 +1,2 @@
+# yahoofinance_python
+ヤフーファイナンスからpythonを使ってスクレイピング
